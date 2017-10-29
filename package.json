@@ -1,8 +1,7 @@
-
 {
   "name": "react-native-blockies",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Blocky component for React Native",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +10,19 @@
     "react-native"
   ],
   "author": "binhnd@socicom.com.vn",
-  "license": "",
+  "license": "ISC",
   "peerDependencies": {
     "react-native": "^0.41.2"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binhnd-socicom/react-native-blockies.git"
+  },
+  "bugs": {
+    "url": "https://github.com/binhnd-socicom/react-native-blockies/issues"
+  },
+  "homepage": "https://github.com/binhnd-socicom/react-native-blockies#readme"
 }
